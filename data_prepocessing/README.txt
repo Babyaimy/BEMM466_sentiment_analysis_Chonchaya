@@ -1,4 +1,4 @@
-## Data Pre-processing step for 'reviews.csv'
+Data Pre-processing step for 'reviews.csv'
 
 Step 1 : translate non-English comment (test4.py)
 Step 2 : The result from test4.py still faced problem with chinese language, so this file need to re-translate again (test7.py)
