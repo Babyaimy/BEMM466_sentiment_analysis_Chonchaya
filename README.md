@@ -15,7 +15,7 @@ There are total 9 jupyter files, 1 folder (contains data prepocessing python fil
 7. Research Question 5 : [RQ5] - growth and dynamics of the Airbnb market.ipynb
 8. Research Question 6.1 : [RQ6.2] - Demand Forecasting.ipynb
 9. Research Question 6.2 : [RQ6.1] -  Pricing forecasting.ipynb
-*10. Data Preprocessing - data-preprocessing
+10. Data Preprocessing - data-preprocessing folder (contains 6 seperate files)
 
    Data Pre-processing has been done by using VScode in seperate file due to it purpose and timing. The purpose for each file has been clarified in the report. Please refer to Apendix B for further detail.
 
