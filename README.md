@@ -1,7 +1,8 @@
 # BEMM466_Business Project 
 
 Title : Sentiment Analysis of guest reviews for apartment-type Airbnb accommodation in London <br />
-Submitted by : Chonchaya Yuthanarong (Student ID: 730068096) 
+Submitted by : Chonchaya Yuthanarong (Student ID: 730068096) <br />
+This project is the part of BEMM466 Business Project modules at University of Exeter 2023/2024
 
 ## File Description 
 There are total 9 jupyter files, 1 folder (contains data prepocessing python file)   
@@ -16,7 +17,11 @@ There are total 9 jupyter files, 1 folder (contains data prepocessing python fil
 9. Research Question 6.2 : [RQ6.1] -  Pricing forecasting.ipynb
 *10. Data Preprocessing - data-preprocessing
 
-   Data Pre-processing has been done by using VScode in seperate file due to it purpose and timing. The purpose for each file has been clarified in the report. Please refer to Apendix B for further detail. 
+   Data Pre-processing has been done by using VScode in seperate file due to it purpose and timing. The purpose for each file has been clarified in the report. Please refer to Apendix B for further detail.
 
-   
+## Original Dataset
+Due to the file size limitations on GitHub, the original dataset cannot be uploaded here. It will be provided separately via OneDrive. <br />
+The original dataset which includes all Airbnb listings is available on my OneDrive. You can directly download it from the following link 
+[Download Original Dataset](https://universityofexeteruk-my.sharepoint.com/:f:/g/personal/cy349_exeter_ac_uk/EoGxu1NNmX9Lt_ZPDoHKqeIBqJQnROs6xaCcRF0EMw_zSQ) 
+For access request, please contact cy349@exeter.ac.uk
 
