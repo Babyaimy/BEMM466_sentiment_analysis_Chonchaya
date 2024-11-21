@@ -3,6 +3,9 @@
 Title : Sentiment Analysis of guest reviews for apartment-type Airbnb accommodation in London <br />
 Submitted by : Chonchaya Yuthanarong (Student ID: 730068096) <br />
 This project is the part of BEMM466 Business Project modules at University of Exeter 2023/2024
+## Objective of the project 
+
+This research analyzes guest reviews of Airbnb apartment accommodations in London from 2010 to 2024, focusing on how events like socio-political changes and the pandemic impacted consumer sentiments. Using sentiment analysis and machine learning models, the study identifies key factors influencing guest satisfaction, such as cleanliness and location, and uncovers shifts in consumer behavior during socio-political disruptions. Additionally, machine learning algorithms were used to predict and forecast sentiment trends, comparing different models to identify the most effective approach. The findings offer actionable insights for Airbnb hosts and policymakers to enhance service quality, implement dynamic pricing, and ensure sustainable market growth in a rapidly evolving environment.
 
 ## File Description 
 There are total 9 jupyter files, 1 folder (contains data preprocessing python file)   
